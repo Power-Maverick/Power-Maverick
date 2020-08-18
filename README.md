@@ -1,4 +1,4 @@
-<img src="https://github.com/Power-Maverick/Power-Maverick/blob/master/assets/main.png">
+<img src="https://github.com/Power-Maverick/Power-Maverick/blob/master/assets/main_new.png">
 
 ### Hi 👋
 
