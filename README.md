@@ -4,7 +4,7 @@
 
 I am Danish Naglekar, also known as "Power Maverick" 🚀. I mainly work on Power Platform 💪 & Azure 🌠. I am an 🏃‍♂️ active contributor to Power Platform community.
 
-> Learn new things, Share your knowlege and grow together as a community! - *Myself*
+> Learn new things, Share your knowledge and grow together as a community! - *Myself*
 
 I'm always trying to grow and learn something new. My passion is technology & coding. 👨🏽‍💻
 
